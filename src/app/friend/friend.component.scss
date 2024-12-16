@@ -1,0 +1,29 @@
+table {
+  border-collapse: collapse;
+}
+table, td, th {
+  border: 1px solid;
+}
+main{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 2%;
+}
+a{
+  padding: 10px;
+  margin: 4px;
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 4px;
+}
+.maindiv{
+  text-align: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+table th,td,a {
+  padding: 7px;
+}
